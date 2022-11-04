@@ -2,6 +2,8 @@
 #include <d3dcompiler.h>
 #include <DirectXTex.h>
 
+#include <fstream>
+
 #pragma comment(lib, "d3dcompiler.lib")
 
 using namespace DirectX;

@@ -68,5 +68,7 @@ private: // メンバ変数
 	Plane plane;
 
 	Triangle triangle;
+
+	Ray ray;
 };
 

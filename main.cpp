@@ -11,7 +11,7 @@ int WINAPI WinMain(HINSTANCE,HINSTANCE,LPSTR,int)
 	Input* input = nullptr;	
 	GameScene* gameScene = nullptr;
 
-	// ゲームウィンドウの作成
+	// ゲームウィンドウの作成 
 	win = WinApp::GetInstance();
 	win->CreateGameWindow();
 		
